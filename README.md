@@ -1,6 +1,6 @@
 # manutencao-de-software
 
-# 1. CI/CD: Automação e Agilidade no Ciclo de Vida do Desenvolvimento de Software
+## 1. CI/CD: Automação e Agilidade no Ciclo de Vida do Desenvolvimento de Software
 
 Objetivo: Explorar como a automação de pipelines CI/CD impacta a qualidade, velocidade e confiabilidade no desenvolvimento de software. Focar na integração contínua, entrega contínua e implantação contínua, e suas ferramentas populares.
 Tópicos sugeridos:
@@ -10,7 +10,7 @@ Benefícios e desafios da adoção de CI/CD em organizações ágeis
 Automação de testes e segurança no pipeline CI/CD
 Casos de uso: CI/CD em diferentes tipos de aplicações (web, mobile, microsserviços)
 
-# 2. Ética no Desenvolvimento de Software: Impactos e Responsabilidades dos Desenvolvedores
+## 2. Ética no Desenvolvimento de Software: Impactos e Responsabilidades dos Desenvolvedores
 
 Objetivo: Refletir sobre as implicações éticas no processo de desenvolvimento de software, abordando temas como privacidade, responsabilidade, impactos sociais e práticas de código limpo.
 Tópicos sugeridos:
@@ -20,7 +20,7 @@ Como a ética influencia decisões de design e desenvolvimento
 Open-source e licenciamento ético
 Privacidade de dados e a responsabilidade do desenvolvedor
 
-# 3. SLA, SLO, SLI: Medindo e Garantindo a Qualidade do Serviço de TI
+## 3. SLA, SLO, SLI: Medindo e Garantindo a Qualidade do Serviço de TI
 
 Objetivo: Estudar como SLA (Service Level Agreement), SLO (Service Level Objective) e SLI (Service Level Indicator) são utilizados para garantir e monitorar a qualidade de serviços oferecidos por aplicações e infraestruturas de TI.
 Tópicos sugeridos:
@@ -30,7 +30,7 @@ Impacto dos SLAs em contratos de serviços de TI
 Ferramentas e técnicas para monitorar e manter SLAs
 SLAs em arquiteturas de microsserviços
 
-# 4. Logs x Métricas: Monitoramento e Diagnóstico em Sistemas de Software
+## 4. Logs x Métricas: Monitoramento e Diagnóstico em Sistemas de Software
 
 Objetivo: Comparar e contrastar logs e métricas como ferramentas de monitoramento e diagnóstico, avaliando seus papéis no gerenciamento de operações, resolução de problemas e otimização de sistemas.
 Tópicos sugeridos:
@@ -40,7 +40,7 @@ Uso de métricas para melhorar o desempenho de sistemas e prever falhas
 Ferramentas para coleta e análise de logs e métricas (ELK Stack, Prometheus, Grafana)
 Logs e métricas em ambientes de alta disponibilidade (cloud, microsserviços)
 
-# 5. LGPD (Lei Geral de Proteção de Dados): Impactos no Desenvolvimento de Software e na Privacidade do Usuário
+## 5. LGPD (Lei Geral de Proteção de Dados): Impactos no Desenvolvimento de Software e na Privacidade do Usuário
 
 Objetivo: Estudar os impactos da LGPD no desenvolvimento de software, com foco em compliance, privacidade de dados e a responsabilidade dos desenvolvedores e empresas de tecnologia.
 Tópicos sugeridos:
