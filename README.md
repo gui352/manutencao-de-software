@@ -2,8 +2,14 @@
 
 ## 1. CI/CD: Automação e Agilidade no Ciclo de Vida do Desenvolvimento de Software
 
-Objetivo: Explorar como a automação de pipelines CI/CD impacta a qualidade, velocidade e confiabilidade no desenvolvimento de software. Focar na integração contínua, entrega contínua e implantação contínua, e suas ferramentas populares.
+Camilly Pessotti, Kenzo, Arthur
+
+Objetivo:
+
+Explorar como a automação de pipelines CI/CD impacta a qualidade, velocidade e confiabilidade no desenvolvimento de software. Focar na integração contínua, entrega contínua e implantação contínua, e suas ferramentas populares.
+
 Tópicos sugeridos:
+
 A diferença entre Integração Contínua (CI) e Entrega Contínua (CD)
 Ferramentas de CI/CD (Jenkins, GitLab CI, Travis CI)
 Benefícios e desafios da adoção de CI/CD em organizações ágeis
@@ -11,6 +17,8 @@ Automação de testes e segurança no pipeline CI/CD
 Casos de uso: CI/CD em diferentes tipos de aplicações (web, mobile, microsserviços)
 
 ## 2. Ética no Desenvolvimento de Software: Impactos e Responsabilidades dos Desenvolvedores
+
+Rafael Conti
 
 Objetivo: Refletir sobre as implicações éticas no processo de desenvolvimento de software, abordando temas como privacidade, responsabilidade, impactos sociais e práticas de código limpo.
 Tópicos sugeridos:
@@ -32,6 +40,8 @@ SLAs em arquiteturas de microsserviços
 
 ## 4. Logs x Métricas: Monitoramento e Diagnóstico em Sistemas de Software
 
+Rubio, Leandro, Alex
+
 Objetivo: Comparar e contrastar logs e métricas como ferramentas de monitoramento e diagnóstico, avaliando seus papéis no gerenciamento de operações, resolução de problemas e otimização de sistemas.
 Tópicos sugeridos:
 Diferenças entre logs e métricas no monitoramento de sistemas
@@ -41,6 +51,8 @@ Ferramentas para coleta e análise de logs e métricas (ELK Stack, Prometheus, G
 Logs e métricas em ambientes de alta disponibilidade (cloud, microsserviços)
 
 ## 5. LGPD (Lei Geral de Proteção de Dados): Impactos no Desenvolvimento de Software e na Privacidade do Usuário
+
+Otaveio, Lucas
 
 Objetivo: Estudar os impactos da LGPD no desenvolvimento de software, com foco em compliance, privacidade de dados e a responsabilidade dos desenvolvedores e empresas de tecnologia.
 Tópicos sugeridos:
