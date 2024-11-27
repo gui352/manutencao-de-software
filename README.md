@@ -30,6 +30,8 @@ Privacidade de dados e a responsabilidade do desenvolvedor
 
 ## 3. SLA, SLO, SLI: Medindo e Garantindo a Qualidade do Serviço de TI
 
+Guilherme Linzmayer
+
 Objetivo: Estudar como SLA (Service Level Agreement), SLO (Service Level Objective) e SLI (Service Level Indicator) são utilizados para garantir e monitorar a qualidade de serviços oferecidos por aplicações e infraestruturas de TI.
 Tópicos sugeridos:
 Diferenças entre SLA, SLO e SLI e suas aplicações práticas
